@@ -1,0 +1,319 @@
+{
+  "version": "2",
+  "jurisdiction": "england",
+  "type": "checkin",
+  "sections": [
+    {
+      "id": "eng-ci-s1",
+      "title": "Before moving day",
+      "tasks": [
+        {
+          "id": "eng-ci-t1",
+          "label": "Arrange contents insurance from day one of tenancy"
+        },
+        {
+          "id": "eng-ci-t2",
+          "label": "Terminate or move (if possible) existing broadbank account",
+          "dueText": "1+ month ahead"
+        },
+        {
+          "id": "eng-ci-t3",
+          "label": "Book broadband install for move-in day or shortly thereafter",
+          "dueText": "1+ month ahead, but might be blocked by existing active account"
+        },
+        {
+          "id": "eng-ci-t4",
+          "label": "Arrange for moving-van access and parking permit (e.g. with council if on-street or with building management if available)",
+          "url": "https://www.gov.uk/parking-permit"
+        },
+        {
+          "id": "eng-ci-t5",
+          "label": "Set up Royal Mail post redirection",
+          "url": "https://www.royalmail.com/redirect",
+          "dueText": "5+ days ahead"
+        },
+        {
+          "id": "eng-ci-t6",
+          "label": "Update TV Licence",
+          "url": "https://www.tvlicensing.co.uk/move"
+        }
+      ]
+    },
+    {
+      "id": "eng-ci-s2",
+      "title": "On moving day",
+      "tasks": [
+        {
+          "id": "eng-ci-t7",
+          "label": "Collect all keys and fobs: front door, back door, windows, mailbox, communal, garage/parking, bin store, cycle store, alarm codes"
+        },
+        {
+          "id": "eng-ci-t8",
+          "label": "Test every key/fob in every lock"
+        },
+        {
+          "id": "eng-ci-t9",
+          "label": "Take date-stamped photos of gas, electricity, water and heating meters",
+          "dueText": "Ensure that meter serial number is visible"
+        },
+        {
+          "id": "eng-ci-t10",
+          "label": "Check if there's any debt from prior tenants if any of the meters is prepayment/key/card/PAYG"
+        },
+        {
+          "id": "eng-ci-t11",
+          "label": "Take a video walkthrough of every room narrating and zooming-in on any defects"
+        },
+        {
+          "id": "eng-ci-t12",
+          "label": "Photograph inside oven, fridge, freezer and its drawers, washing machine drum and seal, dishwasher filter"
+        },
+        {
+          "id": "eng-ci-t13",
+          "label": "Photograph inside every cupboard, wardrobe, and drawer across all rooms"
+        },
+        {
+          "id": "eng-ci-t14",
+          "label": "Photograph any damage across floors, walls, skirting, ceilings, doors, windows and  garden (scuffs, marks, scratches, stains, mould, chipped tiles, burns or empty spots)"
+        },
+        {
+          "id": "eng-ci-t15",
+          "label": "Photograph all curtains, blinds and lampshades (fixed and portable)"
+        },
+        {
+          "id": "eng-ci-t16",
+          "label": "Check inventory line by line against actual item condition -- note where condition is worse than stated or pictures not high enough resolution to show damage"
+        },
+        {
+          "id": "eng-ci-t17",
+          "label": "Test all smoke alarms and CO alarms"
+        },
+        {
+          "id": "eng-ci-t18",
+          "label": "Locate water stopcock, gas shut-off valve and consumer unit / fuse board",
+          "dueText": "Ask landlord if not obvious"
+        },
+        {
+          "id": "eng-ci-t19",
+          "label": "Test boiler, hot water, heating and every individual radiator"
+        },
+        {
+          "id": "eng-ci-t20",
+          "label": "Run every tap (including outdoor and showers/baths) and flush every toilet"
+        },
+        {
+          "id": "eng-ci-t21",
+          "label": "Test every hob ring, oven, extractor fan, microwave, kettle, and other provided kitchen appliances"
+        },
+        {
+          "id": "eng-ci-t22",
+          "label": "Test all bulbs, including within extractor fan and workspace / countertop ligthing"
+        },
+        {
+          "id": "eng-ci-t23",
+          "label": "Check every window opens, closes, and locks"
+        },
+        {
+          "id": "eng-ci-t24",
+          "label": "Check for damp, mould, and pest evidence (droppings or smell behind furniture / major appliances)"
+        }
+      ]
+    },
+    {
+      "id": "eng-ci-s3",
+      "title": "Within 7 days of moving in",
+      "tasks": [
+        {
+          "id": "eng-ci-t25",
+          "label": "Submit your own inventory ammendment with all comments and photos by email"
+        },
+        {
+          "id": "eng-ci-t26",
+          "label": "Open or move accounts and submit meter readings to gas, electricity, heating, water and sewerage suppliers"
+        },
+        {
+          "id": "eng-ci-t27",
+          "label": "Register for council tax with new local authority",
+          "url": "https://www.gov.uk/council-tax/paying-council-tax",
+          "dueText": "Within 21 days typically"
+        },
+        {
+          "id": "eng-ci-t28",
+          "label": "Apply for single person discount if living alone",
+          "url": "https://www.gov.uk/apply-for-council-tax-discount"
+        },
+        {
+          "id": "eng-ci-t29",
+          "label": "Apply for council tax student exemption if applicable"
+        },
+        {
+          "id": "eng-ci-t30",
+          "label": "Apply for disabled discount if applicable"
+        },
+        {
+          "id": "eng-ci-t31",
+          "label": "Apply for low-income discount if applicable"
+        },
+        {
+          "id": "eng-ci-t32",
+          "label": "Update Child Benefit address if applicable",
+          "url": "https://www.gov.uk/contact-child-benefit-office"
+        },
+        {
+          "id": "eng-ci-t34",
+          "label": "Update Universal Credit address if applicable",
+          "url": "https://www.gov.uk/sign-in-universal-credit"
+        },
+        {
+          "id": "eng-ci-t35",
+          "label": "Update State Pension address if applicable",
+          "url": "https://www.gov.uk/change-bank-details-or-address-for-tax-credits-benefits"
+        },
+        {
+          "id": "eng-ci-t36",
+          "label": "Register with a local NHS GP",
+          "url": "https://www.nhs.uk/nhs-services/gps/how-to-register-with-a-gp-surgery/"
+        },
+        {
+          "id": "eng-ci-t37",
+          "label": "Register with an NHS dentist",
+          "url": "https://www.nhs.uk/nhs-services/dentists/how-to-find-an-nhs-dentist/"
+        },
+        {
+          "id": "eng-ci-t38",
+          "label": "Update nominated pharmacy of new address for repeat prescription delivery",
+          "dueText": "This can be done via GP, NHS app or the pharmacy directly"
+        },
+        {
+          "id": "eng-ci-t39",
+          "label": "Set up standing order for rent"
+        }
+      ]
+    },
+    {
+      "id": "eng-ci-s4",
+      "title": "Within 1 month of moving in",
+      "tasks": [
+        {
+          "id": "eng-ci-t40",
+          "label": "Update all banks, building societies, mortgage lenders, and credit cards of new address"
+        },
+        {
+          "id": "eng-ci-t41",
+          "label": "Update ISA, investment, exchange, and brokerage accounts of new address"
+        },
+        {
+          "id": "eng-ci-t42",
+          "label": "Update life insurance, critical illness, and income protection of new address"
+        },
+        {
+          "id": "eng-ci-t43",
+          "label": "Update solicitor, accountant, and will/executor records of new address"
+        },
+        {
+          "id": "eng-ci-t44",
+          "label": "Update DVLA driving licence address (free; £1000 fine if not done)",
+          "url": "https://www.gov.uk/change-address-driving-licence"
+        },
+        {
+          "id": "eng-ci-t45",
+          "label": "Update DVLA V5C vehicle log book",
+          "url": "https://www.gov.uk/change-address-v5c"
+        },
+        {
+          "id": "eng-ci-t46",
+          "label": "Update vehicle insurance address",
+          "dueText": "Your premium may change"
+        },
+        {
+          "id": "eng-ci-t47",
+          "label": "Update Blue Badge permit address"
+        },
+        {
+          "id": "eng-ci-t48",
+          "label": "Update workplace and personal pension providers of new address"
+        },
+        {
+          "id": "eng-ci-t49",
+          "label": "Notify HMRC (Income Tax, National Insurance, Child Benefit, State Pension) of address change",
+          "url": "https://www.gov.uk/tell-hmrc-change-of-details"
+        },
+        {
+          "id": "eng-ci-t50",
+          "label": "Update Companies House registered office and director's service address if running a business",
+          "url": "https://www.gov.uk/government/organisations/companies-house"
+        },
+        {
+          "id": "eng-ci-t51",
+          "label": "Update Disclosure and Barring Service (DBS) Update Service",
+          "url": "https://www.gov.uk/dbs-update-service"
+        },
+        {
+          "id": "eng-ci-t52",
+          "label": "Update Student Finance address if a student",
+          "url": "https://www.gov.uk/student-finance"
+        },
+        {
+          "id": "eng-ci-t53",
+          "label": "Update vet records and microchip database (Petlog/Identibase) if you have pets"
+        },
+        {
+          "id": "eng-ci-t54",
+          "label": "Register on the electoral roll",
+          "url": "https://www.gov.uk/register-to-vote"
+        },
+        {
+          "id": "eng-ci-t55",
+          "label": "Update Gift Aid declarations with charities of new address"
+        },
+        {
+          "id": "eng-ci-t56",
+          "label": "Update PayPal, Amazon, eBay and other frequently used online retailer default shipping addresses"
+        },
+        {
+          "id": "eng-ci-t57",
+          "label": "Update gym and other subscription services (e.g. mobile provider) of new address"
+        }
+      ]
+    },
+    {
+      "id": "eng-ci-s5",
+      "title": "Deposit and tenancy compliance",
+      "tasks": [
+        {
+          "id": "eng-ci-t58",
+          "label": "Receive Deposit protection Prescribed Information (confirm if deposit is protected in DPS, MyDeposits, or TDS)",
+          "url": "https://www.gov.uk/tenancy-deposit-protection",
+          "dueText": "Landlord must protect within 30 days"
+        },
+        {
+          "id": "eng-ci-t59",
+          "label": "Receive the How to Rent guide",
+          "url": "https://www.gov.uk/government/publications/how-to-rent"
+        },
+        {
+          "id": "eng-ci-t60",
+          "label": "Receive Energy Performance Certificate (EPC)",
+          "dueText": "Minimum 'E' rating, unless exempt"
+        },
+        {
+          "id": "eng-ci-t61",
+          "label": "Receive Electrical Installation Condition Report (EICR)"
+        },
+        {
+          "id": "eng-ci-t62",
+          "label": "Receive Gas Safety Certificate, if gas is connected"
+        },
+        {
+          "id": "eng-ci-t63",
+          "label": "Check if property is in a selective licensing area and Landlord's license",
+          "dueText": "Search '[council name] selective licensing'. If property is within the area, check current status of your Landlord's license. "
+        },
+        {
+          "id": "eng-ci-t64",
+          "label": "Check if HMO licence is required and held (if 3+ unrelated tenants)"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,298 @@
+{
+  "version": "2",
+  "jurisdiction": "england",
+  "type": "checkout",
+  "sections": [
+    {
+      "id": "eng-co-s1",
+      "title": "Before moving day",
+      "tasks": [
+        {
+          "id": "eng-co-t1",
+          "label": "Give written notice to landlord/agent (notice period must end on the last day of a rent period)",
+          "dueText": "Minimum of 2 months' notice"
+        },
+        {
+          "id": "eng-co-t2",
+          "label": "Request checkout expectations",
+          "dueText": "Checkout process, key return method, cleaning expectations, garden expectations, final inspection date & time"
+        },
+        {
+          "id": "eng-co-t3",
+          "label": "Book removals or van hire / rental"
+        },
+        {
+          "id": "eng-co-t4",
+          "label": "Set up Royal Mail post redirection (valid for 3–12 months)",
+          "url": "https://www.royalmail.com/redirect",
+          "dueText": "Allow 5+ working days"
+        },
+        {
+          "id": "eng-co-t5",
+          "label": "Book end-of-tenancy professional cleaning if required by agreement (keep receipt)"
+        },
+        {
+          "id": "eng-co-t6",
+          "label": "Book professional carpet cleaning if required by agreement (keep receipt)"
+        },
+        {
+          "id": "eng-co-t7",
+          "label": "Book professional pet upholstery cleaning if required by agreement (keep receipt)"
+        },
+        {
+          "id": "eng-co-t8",
+          "label": "Notify gas, electricity, and water suppliers of leaving date"
+        },
+        {
+          "id": "eng-co-t9",
+          "label": "Notify broadband provider: cancel, transfer, or take connectivity with you"
+        },
+        {
+          "id": "eng-co-t10",
+          "label": "Notify contents insurance: cancel, transfer, or update"
+        },
+        {
+          "id": "eng-co-t11",
+          "label": "Notify TV Licence of move",
+          "url": "https://www.tvlicensing.co.uk/check-if-you-need-one/topics/contact-us-top11/i-am-moving-home-mid12"
+        },
+        {
+          "id": "eng-co-t12",
+          "label": "Notify council tax of leaving date and request final bill"
+        },
+        {
+          "id": "eng-co-t13",
+          "label": "Replace dead lightbulbs with same type/wattage as inventory"
+        },
+        {
+          "id": "eng-co-t14",
+          "label": "Mow lawn, weed, trim hedges if garden is your responsibility"
+        },
+        {
+          "id": "eng-co-t15",
+          "label": "Repair minor damage permitted by agreement (filler, touch-up paint matched to existing)"
+        }
+      ]
+    },
+    {
+      "id": "eng-co-s2",
+      "title": "Cleaning checklist (deposit-critical if done yourself)",
+      "tasks": [
+        {
+          "id": "eng-co-t16",
+          "label": "Deep clean oven, hob, extractor fan, and grill",
+          "dueText": "The #1 deposit dispute"
+        },
+        {
+          "id": "eng-co-t17",
+          "label": "Defrost and clean fridge and freezer (allow 24 hours)"
+        },
+        {
+          "id": "eng-co-t18",
+          "label": "Clean washing machine drum, seal, detergent drawer, and filter"
+        },
+        {
+          "id": "eng-co-t19",
+          "label": "Clean dishwasher filter and run empty hot cycle with cleaner"
+        },
+        {
+          "id": "eng-co-t20",
+          "label": "Descale showerhead, taps, kettle, and limescale on tiles"
+        },
+        {
+          "id": "eng-co-t21",
+          "label": "Bleach toilets including under the rim and behind the seat"
+        },
+        {
+          "id": "eng-co-t22",
+          "label": "Clean grout and silicone seals in bathrooms and kitchen if mouldy"
+        },
+        {
+          "id": "eng-co-t23",
+          "label": "Wipe skirting boards, door frames, light switches, and sockets"
+        },
+        {
+          "id": "eng-co-t24",
+          "label": "Clean inside and outside of all windows and window tracks"
+        },
+        {
+          "id": "eng-co-t25",
+          "label": "Vacuum and mop every floor including under furniture and behind appliances"
+        },
+        {
+          "id": "eng-co-t26",
+          "label": "Remove all picture hooks and fill holes if agreement requires"
+        },
+        {
+          "id": "eng-co-t27",
+          "label": "Empty and clean all bins, arrange for large rubbish collection by the council or a charity"
+        }
+      ]
+    },
+    {
+      "id": "eng-co-s3",
+      "title": "On moving day",
+      "tasks": [
+        {
+          "id": "eng-co-t28",
+          "label": "Take date-stamped photos and/or video of every empty room, cupboard, and appliance"
+        },
+        {
+          "id": "eng-co-t29",
+          "label": "Photograph final meter readings (gas, electricity, heating, water)",
+          "dueText": "Ensure that meter serial numbers are visible"
+        },
+        {
+          "id": "eng-co-t30",
+          "label": "Return all keys & fobs: front, back, windows, mailbox, communal, fob, bin store, parking, garage"
+        },
+        {
+          "id": "eng-co-t31",
+          "label": "Switch off power at consumer unit only if instructed"
+        },
+        {
+          "id": "eng-co-t32",
+          "label": "Conduct check-out inventory inspection with landlord/agent if possible; get it emailed or signed"
+        },
+        {
+          "id": "eng-co-t33",
+          "label": "Secure property on your final exit (closed windows, locked doors, heating off, non-essential appliances off, lights off)"
+        },
+        {
+          "id": "eng-co-t34",
+          "label": "Submit final meter readings to suppliers the same day"
+        }
+      ]
+    },
+    {
+      "id": "eng-co-s4",
+      "title": "After moving out",
+      "tasks": [
+        {
+          "id": "eng-co-t35",
+          "label": "Request deposit return in writing referencing the protection scheme",
+          "url": "https://www.gov.uk/tenancy-deposit-protection",
+          "dueText": "Landlord must respond within 10 days of agreement"
+        },
+        {
+          "id": "eng-co-t36",
+          "label": "If deposit dispute, raise with the scheme's free adjudication service directly"
+        },
+        {
+          "id": "eng-co-t37",
+          "label": "Pay final utility bills and only then cancel direct debits",
+          "dueText": "Cancelling any outstanding direct debits first risks credit issues"
+        },
+        {
+          "id": "eng-co-t38",
+          "label": "Confirm council tax account closed and final bill received",
+          "url": "https://www.gov.uk/council-tax/paying-council-tax"
+        },
+        {
+          "id": "eng-ci-t39",
+          "label": "Update all banks, building societies, mortgage lenders, and credit cards of new address"
+        },
+        {
+          "id": "eng-ci-t40",
+          "label": "Update ISA, investment, exchange, and brokerage accounts of new address"
+        },
+        {
+          "id": "eng-ci-t41",
+          "label": "Update life insurance, critical illness, and income protection of new address"
+        },
+        {
+          "id": "eng-ci-t42",
+          "label": "Update solicitor, accountant, and will/executor records of new address"
+        },
+        {
+          "id": "eng-ci-t43",
+          "label": "Update DVLA driving licence address (free; £1000 fine if not done)",
+          "url": "https://www.gov.uk/change-address-driving-licence"
+        },
+        {
+          "id": "eng-ci-t44",
+          "label": "Update DVLA V5C vehicle log book",
+          "url": "https://www.gov.uk/change-address-v5c"
+        },
+        {
+          "id": "eng-ci-t45",
+          "label": "Update vehicle insurance address",
+          "dueText": "Your premium may change"
+        },
+        {
+          "id": "eng-ci-t46",
+          "label": "Update Blue Badge permit address"
+        },
+        {
+          "id": "eng-ci-t47",
+          "label": "Update workplace and personal pension providers of new address"
+        },
+        {
+          "id": "eng-ci-t48",
+          "label": "Notify HMRC (Income Tax, National Insurance, Child Benefit, State Pension) of address change",
+          "url": "https://www.gov.uk/tell-hmrc-change-of-details"
+        },
+        {
+          "id": "eng-ci-t49",
+          "label": "Update Companies House registered office and director's service address if running a business",
+          "url": "https://www.gov.uk/government/organisations/companies-house"
+        },
+        {
+          "id": "eng-ci-t50",
+          "label": "Update Disclosure and Barring Service (DBS) Update Service",
+          "url": "https://www.gov.uk/dbs-update-service"
+        },
+        {
+          "id": "eng-ci-t51",
+          "label": "Update Student Finance address if a student",
+          "url": "https://www.gov.uk/student-finance"
+        },
+        {
+          "id": "eng-ci-t52",
+          "label": "Update vet records and microchip database (Petlog/Identibase) if you have pets"
+        },
+        {
+          "id": "eng-ci-t53",
+          "label": "Update Gift Aid declarations with charities of new address"
+        },
+        {
+          "id": "eng-ci-t54",
+          "label": "Update PayPal, Amazon, eBay and other frequently used online retailer default shipping addresses"
+        },
+        {
+          "id": "eng-ci-t55",
+          "label": "Update gym and other subscription services (e.g. mobile provider) of new address"
+        },
+        {
+          "id": "eng-co-t56",
+          "label": "Check no post is still arriving for you at the old address after 3 months"
+        }
+      ]
+    },
+    {
+      "id": "eng-co-s5",
+      "title": "Deposit protection",
+      "tasks": [
+        {
+          "id": "eng-co-t57",
+          "label": "Keep tenancy agreement, inventory, photos, and correspondence for at least 6 years"
+        },
+        {
+          "id": "eng-co-t58",
+          "label": "Reject deductions for fair wear and tear",
+          "dueText": "Landlord must prove damage beyond normal use"
+        },
+        {
+          "id": "eng-co-t59",
+          "label": "Reject 'betterment' deductions",
+          "dueText": "Landlord cannot charge new-for-old on used items -- replacement must be like-for-like"
+        },
+        {
+          "id": "eng-co-t60",
+          "label": "Reference the move-in inventory and your ammendments for any disputes",
+          "dueText": "Note if damage was already present and documented or if their provided iventory has poor quality images that does not prove that the damage didn't already exist"
+        }
+      ]
+    }
+  ]
+}

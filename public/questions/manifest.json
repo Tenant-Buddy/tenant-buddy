@@ -1,0 +1,12 @@
+{
+  "countries": [
+    { "id": "england", "label": "England" },
+    { "id": "scotland", "label": "Scotland" }
+  ],
+  "versions": {
+    "england-checkin": "v2",
+    "england-checkout": "v2",
+    "scotland-checkin": "v1",
+    "scotland-checkout": "v1"
+  }
+}

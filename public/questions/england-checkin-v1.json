@@ -1,0 +1,42 @@
+{
+  "version": "1",
+  "jurisdiction": "england",
+  "type": "checkin",
+  "sections": [
+    {
+      "id": "eng-ci-s1",
+      "title": "Before or on moving day",
+      "tasks": [
+        { "id": "eng-ci-t1", "label": "Get all keys from landlord or letting agent", "dueText": "On moving day" },
+        { "id": "eng-ci-t2", "label": "Take meter readings (gas, electricity, water)", "dueText": "On moving day" },
+        { "id": "eng-ci-t3", "label": "Set up gas and electricity accounts", "url": "https://www.ofgem.gov.uk", "dueText": "Within a few days of moving in" },
+        { "id": "eng-ci-t4", "label": "Set up water account (if metered)", "dueText": "Within a few days of moving in" },
+        { "id": "eng-ci-t5", "label": "Set up broadband / internet", "dueText": "Book in advance — can take 1–2 weeks" }
+      ]
+    },
+    {
+      "id": "eng-ci-s2",
+      "title": "First 30 days",
+      "tasks": [
+        { "id": "eng-ci-t6", "label": "Register for council tax", "url": "https://www.gov.uk/council-tax/paying-council-tax", "dueText": "Within 28 days of moving in" },
+        { "id": "eng-ci-t7", "label": "Register on the electoral roll", "url": "https://www.gov.uk/register-to-vote", "dueText": "As soon as possible" },
+        { "id": "eng-ci-t8", "label": "Update driving licence address (DVLA)", "url": "https://www.gov.uk/change-address-driving-licence", "dueText": "Required by law" },
+        { "id": "eng-ci-t9", "label": "Notify your bank(s) of your new address" },
+        { "id": "eng-ci-t10", "label": "Set up Royal Mail post redirection", "url": "https://www.royalmail.com/redirect", "dueText": "Before moving if possible" },
+        { "id": "eng-ci-t11", "label": "Register with a local GP", "url": "https://www.nhs.uk/nhs-services/gps/how-to-register-with-a-gp-surgery/" },
+        { "id": "eng-ci-t12", "label": "Update home contents insurance" },
+        { "id": "eng-ci-t13", "label": "Update TV Licence address", "url": "https://www.tvlicensing.co.uk" },
+        { "id": "eng-ci-t14", "label": "Notify HMRC of new address (if employed or self-employed)", "url": "https://www.gov.uk/tell-hmrc-change-of-details" }
+      ]
+    },
+    {
+      "id": "eng-ci-s3",
+      "title": "Deposit and tenancy admin",
+      "tasks": [
+        { "id": "eng-ci-t15", "label": "Confirm deposit is protected in a government-approved scheme", "url": "https://www.gov.uk/tenancy-deposit-protection", "dueText": "Landlord must do this within 30 days of receiving your deposit" },
+        { "id": "eng-ci-t16", "label": "Receive and keep a copy of your tenancy agreement" },
+        { "id": "eng-ci-t17", "label": "Receive How to Rent guide from landlord", "url": "https://www.gov.uk/government/publications/how-to-rent" }
+      ]
+    }
+  ]
+}

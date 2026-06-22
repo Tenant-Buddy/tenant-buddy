@@ -1,0 +1,40 @@
+{
+  "version": "1",
+  "jurisdiction": "scotland",
+  "type": "checkout",
+  "sections": [
+    {
+      "id": "sco-co-s1",
+      "title": "Before moving day",
+      "tasks": [
+        { "id": "sco-co-t1", "label": "Give notice to your landlord per your PRT terms", "dueText": "Minimum 28 days' notice required" },
+        { "id": "sco-co-t2", "label": "Arrange cleaning of the property" },
+        { "id": "sco-co-t3", "label": "Set up Royal Mail post redirection to your new address", "url": "https://www.royalmail.com/redirect", "dueText": "Before moving if possible" },
+        { "id": "sco-co-t4", "label": "Notify utility providers (gas, electricity) of your leaving date" },
+        { "id": "sco-co-t5", "label": "Notify Scottish Water of your leaving date", "url": "https://www.scottishwater.co.uk" }
+      ]
+    },
+    {
+      "id": "sco-co-s2",
+      "title": "On moving day",
+      "tasks": [
+        { "id": "sco-co-t6", "label": "Take final meter readings (gas, electricity, water)", "dueText": "On moving day" },
+        { "id": "sco-co-t7", "label": "Return all keys to landlord or letting agent", "dueText": "On moving day" },
+        { "id": "sco-co-t8", "label": "Photograph the property condition for your records" },
+        { "id": "sco-co-t9", "label": "Check property is clean and in good condition" },
+        { "id": "sco-co-t10", "label": "Confirm forwarding address with landlord or letting agent" }
+      ]
+    },
+    {
+      "id": "sco-co-s3",
+      "title": "After moving out",
+      "tasks": [
+        { "id": "sco-co-t11", "label": "Close or transfer your council tax account", "url": "https://www.mygov.scot/council-tax" },
+        { "id": "sco-co-t12", "label": "Request deposit return in writing", "url": "https://www.mygov.scot/tenancy-deposits", "dueText": "Landlord should return within 30 working days" },
+        { "id": "sco-co-t13", "label": "Cancel or transfer broadband / internet contract" },
+        { "id": "sco-co-t14", "label": "Cancel or transfer home contents insurance" },
+        { "id": "sco-co-t15", "label": "Update your address on subscriptions and services" }
+      ]
+    }
+  ]
+}

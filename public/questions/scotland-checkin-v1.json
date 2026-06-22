@@ -1,0 +1,39 @@
+{
+  "version": "1",
+  "jurisdiction": "scotland",
+  "type": "checkin",
+  "sections": [
+    {
+      "id": "sco-ci-s1",
+      "title": "Before or on moving day",
+      "tasks": [
+        { "id": "sco-ci-t1", "label": "Get all keys from landlord or letting agent", "dueText": "On moving day" },
+        { "id": "sco-ci-t2", "label": "Take meter readings (gas, electricity, water)", "dueText": "On moving day" },
+        { "id": "sco-ci-t3", "label": "Set up gas and electricity accounts", "dueText": "Within a few days of moving in" },
+        { "id": "sco-ci-t4", "label": "Contact Scottish Water if on a water meter", "url": "https://www.scottishwater.co.uk" }
+      ]
+    },
+    {
+      "id": "sco-ci-s2",
+      "title": "First 30 days",
+      "tasks": [
+        { "id": "sco-ci-t5", "label": "Register for council tax", "url": "https://www.mygov.scot/council-tax", "dueText": "As soon as possible" },
+        { "id": "sco-ci-t6", "label": "Register on the electoral roll", "url": "https://www.mygov.scot/register-to-vote" },
+        { "id": "sco-ci-t7", "label": "Update driving licence address (DVLA)", "url": "https://www.gov.uk/change-address-driving-licence", "dueText": "Required by law" },
+        { "id": "sco-ci-t8", "label": "Notify your bank(s) of your new address" },
+        { "id": "sco-ci-t9", "label": "Set up Royal Mail post redirection", "url": "https://www.royalmail.com/redirect" },
+        { "id": "sco-ci-t10", "label": "Register with a local GP", "url": "https://www.nhsinform.scot/care-support-and-rights/nhs-services/doctors/registering-with-a-gp-practice/" }
+      ]
+    },
+    {
+      "id": "sco-ci-s3",
+      "title": "Deposit and tenancy admin (Scotland)",
+      "tasks": [
+        { "id": "sco-ci-t11", "label": "Confirm deposit is protected in a Scottish government-approved scheme", "url": "https://www.mygov.scot/tenancy-deposits", "dueText": "Landlord must do this within 30 working days" },
+        { "id": "sco-ci-t12", "label": "Receive and keep a copy of your Private Residential Tenancy (PRT) agreement" },
+        { "id": "sco-ci-t13", "label": "Receive the Private Residential Tenancy statutory terms from your landlord" },
+        { "id": "sco-ci-t14", "label": "Confirm landlord is registered with the local council", "url": "https://www.landlordregistrationscotland.gov.uk" }
+      ]
+    }
+  ]
+}

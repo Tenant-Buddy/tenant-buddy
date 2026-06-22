@@ -1,0 +1,40 @@
+{
+  "version": "1",
+  "jurisdiction": "england",
+  "type": "checkout",
+  "sections": [
+    {
+      "id": "eng-co-s1",
+      "title": "Before moving day",
+      "tasks": [
+        { "id": "eng-co-t1", "label": "Give notice to your landlord per your tenancy agreement", "dueText": "Check your agreement for required notice period" },
+        { "id": "eng-co-t2", "label": "Arrange professional cleaning if required by your tenancy agreement" },
+        { "id": "eng-co-t3", "label": "Set up Royal Mail post redirection to your new address", "url": "https://www.royalmail.com/redirect", "dueText": "Before moving if possible" },
+        { "id": "eng-co-t4", "label": "Notify utility providers (gas, electricity, water) of your leaving date" },
+        { "id": "eng-co-t5", "label": "Arrange final meter readings for moving day" }
+      ]
+    },
+    {
+      "id": "eng-co-s2",
+      "title": "On moving day",
+      "tasks": [
+        { "id": "eng-co-t6", "label": "Take final meter readings (gas, electricity, water)", "dueText": "On moving day" },
+        { "id": "eng-co-t7", "label": "Return all keys to landlord or letting agent", "dueText": "On moving day" },
+        { "id": "eng-co-t8", "label": "Photograph the property condition for your records" },
+        { "id": "eng-co-t9", "label": "Check property is clean and in good condition" },
+        { "id": "eng-co-t10", "label": "Confirm forwarding address with landlord or letting agent" }
+      ]
+    },
+    {
+      "id": "eng-co-s3",
+      "title": "After moving out",
+      "tasks": [
+        { "id": "eng-co-t11", "label": "Close or transfer your council tax account", "url": "https://www.gov.uk/council-tax/paying-council-tax" },
+        { "id": "eng-co-t12", "label": "Request deposit return in writing", "url": "https://www.gov.uk/tenancy-deposit-protection", "dueText": "Landlord should return within 10 days of agreement" },
+        { "id": "eng-co-t13", "label": "Cancel or transfer broadband / internet contract" },
+        { "id": "eng-co-t14", "label": "Cancel or transfer home contents insurance" },
+        { "id": "eng-co-t15", "label": "Update your address on subscriptions and services" }
+      ]
+    }
+  ]
+}
