@@ -1,12 +1,21 @@
 {
   "countries": [
+    { "id": "generic", "label": "Generic" },
     { "id": "england", "label": "England" },
-    { "id": "scotland", "label": "Scotland" }
+    { "id": "scotland", "label": "Scotland" },
+    { "id": "wales", "label": "Wales" },
+    { "id": "northern-ireland", "label": "Northern Ireland" }
   ],
   "versions": {
-    "england-checkin": "v2",
-    "england-checkout": "v2",
+    "generic-checkin": "v1",
+    "generic-checkout": "v1",
+    "england-checkin": "v3",
+    "england-checkout": "v3",
     "scotland-checkin": "v1",
-    "scotland-checkout": "v1"
+    "scotland-checkout": "v1",
+    "wales-checkin": "v1",
+    "wales-checkout": "v1",
+    "northern-ireland-checkin": "v1",
+    "northern-ireland-checkout": "v1"
   }
 }

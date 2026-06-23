@@ -5,6 +5,7 @@ import { useChecklist } from '@/composables/useChecklist';
 import TaskItem from '@/components/TaskItem.vue';
 import ExportMenu from '@/components/ExportMenu.vue';
 import DeleteConfirmDialog from '@/components/DeleteConfirmDialog.vue';
+import UncheckAllConfirmDialog from '@/components/UncheckAllConfirmDialog.vue';
 import DisplayNameModal from '@/components/DisplayNameModal.vue';
 import type { LogEvent } from '@/types';
 
@@ -16,6 +17,7 @@ const CUSTOM_SECTION_ID = '__custom__';
 
 const showLog = ref(false);
 const showDeleteDialog = ref(false);
+const showUncheckAllDialog = ref(false);
 const needsName = ref(false);
 const copied = ref(false);
 
@@ -135,7 +137,9 @@ function handleToggle(taskId: string) {
   requireName(() => checklist.toggleTask(taskId));
 }
 function handleUncheckAll() {
-  requireName(() => checklist.uncheckAll());
+  requireName(() => {
+    showUncheckAllDialog.value = true;
+  });
 }
 function handleAddNote(taskId: string, text: string) {
   requireName(() => checklist.addNote(taskId, text));
@@ -676,5 +680,13 @@ function formatTs(ts: { toDate(): Date }): string {
 
     <DisplayNameModal v-if="needsName" @done="onNameSet" />
     <DeleteConfirmDialog v-if="showDeleteDialog" @confirm="confirmDelete" @cancel="showDeleteDialog = false" />
+    <UncheckAllConfirmDialog
+      v-if="showUncheckAllDialog"
+      @confirm="
+        checklist.uncheckAll();
+        showUncheckAllDialog = false;
+      "
+      @cancel="showUncheckAllDialog = false"
+    />
   </div>
 </template>

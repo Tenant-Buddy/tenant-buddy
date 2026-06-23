@@ -1,0 +1,352 @@
+{
+  "version": "1",
+  "jurisdiction": "northern-ireland",
+  "type": "checkin",
+  "sections": [
+    {
+      "id": "nir-ci-s1",
+      "title": "Before moving day",
+      "tasks": [
+        {
+          "id": "nir-ci-t1",
+          "label": "Arrange contents insurance from day one of the tenancy"
+        },
+        {
+          "id": "nir-ci-t2",
+          "label": "Terminate or move (if possible) your existing broadband account",
+          "dueText": "1+ month ahead"
+        },
+        {
+          "id": "nir-ci-t3",
+          "label": "Book broadband install for move-in day or shortly thereafter",
+          "dueText": "1+ month ahead, but may be blocked by an existing active account"
+        },
+        {
+          "id": "nir-ci-t4",
+          "label": "Arrange moving-van access and a parking permit (e.g. with the Department for Infrastructure (DfI) if on-street, or with building management if available)"
+        },
+        {
+          "id": "nir-ci-t5",
+          "label": "Set up Royal Mail post redirection",
+          "url": "https://www.royalmail.com/personal/receiving-mail/redirection",
+          "dueText": "5+ working days ahead"
+        },
+        {
+          "id": "nir-ci-t6",
+          "label": "Update your TV Licence",
+          "url": "https://www.tvlicensing.co.uk/check-if-you-need-one/for-your-home/youre-moving-address-aud23"
+        }
+      ]
+    },
+    {
+      "id": "nir-ci-s2",
+      "title": "On moving day",
+      "tasks": [
+        {
+          "id": "nir-ci-t7",
+          "label": "Collect all keys and fobs: front door, back door, windows, mailbox, communal, garage/parking, bin store, cycle store, alarm codes"
+        },
+        {
+          "id": "nir-ci-t8",
+          "label": "Test every key/fob in every lock"
+        },
+        {
+          "id": "nir-ci-t9",
+          "label": "Test the door entry / intercom / buzzer system and any communal-door fobs"
+        },
+        {
+          "id": "nir-ci-t10",
+          "label": "Take date-stamped photos of gas and electricity meters (and note the oil tank level if heating is oil-fired)",
+          "dueText": "Ensure the meter serial number is visible. Note: domestic water in Northern Ireland is not separately metered or billed to households"
+        },
+        {
+          "id": "nir-ci-t11",
+          "label": "Check for any outstanding debt left by prior tenants if any meter is prepayment/key/card/PAYG"
+        },
+        {
+          "id": "nir-ci-t12",
+          "label": "Take a video walkthrough of every room, narrating and zooming in on any defects"
+        },
+        {
+          "id": "nir-ci-t13",
+          "label": "Photograph inside the oven, fridge, freezer and its drawers, washing machine drum and seal, and dishwasher filter"
+        },
+        {
+          "id": "nir-ci-t14",
+          "label": "Photograph inside every cupboard, wardrobe and drawer across all rooms"
+        },
+        {
+          "id": "nir-ci-t15",
+          "label": "Photograph any damage to floors, walls, skirting, ceilings, doors, windows and garden (scuffs, marks, scratches, stains, mould, chipped tiles, burns or empty spots)"
+        },
+        {
+          "id": "nir-ci-t16",
+          "label": "Photograph all curtains, blinds and lampshades (fixed and portable)"
+        },
+        {
+          "id": "nir-ci-t17",
+          "label": "Check the inventory line by line against actual item condition -- note where condition is worse than stated, or where photos are not high enough resolution to show damage"
+        },
+        {
+          "id": "nir-ci-t18",
+          "label": "Test all smoke alarms, heat alarms and carbon monoxide alarms",
+          "dueText": "Under the Smoke, Heat and Carbon Monoxide Alarms for Private Tenancies Regulations (NI) 2024, properties must have a smoke alarm in the main living room and each storey's circulation space, a heat alarm in every kitchen, and a CO alarm near any fixed combustion appliance or flue"
+        },
+        {
+          "id": "nir-ci-t19",
+          "label": "Locate the water stopcock, gas shut-off valve and consumer unit / fuse board",
+          "dueText": "Ask the landlord or letting agents if not obvious"
+        },
+        {
+          "id": "nir-ci-t20",
+          "label": "Test the boiler, hot water, heating and every individual radiator"
+        },
+        {
+          "id": "nir-ci-t21",
+          "label": "Run every tap (including outdoor taps and showers/baths) and flush every toilet"
+        },
+        {
+          "id": "nir-ci-t22",
+          "label": "Test every hob ring, oven, extractor fan, microwave, kettle and other provided kitchen appliances"
+        },
+        {
+          "id": "nir-ci-t23",
+          "label": "Test all bulbs, including within the extractor fan and any workspace / countertop lighting"
+        },
+        {
+          "id": "nir-ci-t24",
+          "label": "Check every window opens, closes and locks"
+        },
+        {
+          "id": "nir-ci-t25",
+          "label": "Check for damp, mould and pest evidence (droppings or smell behind furniture / major appliances)"
+        },
+        {
+          "id": "nir-ci-t26",
+          "label": "Check in your contract or confirm the landlord/letting agent emergency and out-of-hours repair contact details"
+        }
+      ]
+    },
+    {
+      "id": "nir-ci-s3",
+      "title": "Within 7 days of moving in",
+      "tasks": [
+        {
+          "id": "nir-ci-t27",
+          "label": "Submit your own inventory amendment promptly with all comments and photos by email"
+        },
+        {
+          "id": "nir-ci-t28",
+          "label": "Open or move accounts and submit meter readings to gas and electricity suppliers; if heating is oil-fired, arrange or confirm your home heating oil supplier and record the tank level",
+          "dueText": "Domestic water and sewerage in Northern Ireland are funded through rates, so there is no separate household water account to open"
+        },
+        {
+          "id": "nir-ci-t29",
+          "label": "Find out refuse and recycling collection days and bin/recycling store arrangements"
+        },
+        {
+          "id": "nir-ci-t30",
+          "label": "Tell Land & Property Services (LPS) you have moved in so your rates account is correct",
+          "url": "https://www.nidirect.gov.uk/articles/make-changes-your-rate-account",
+          "dueText": "Northern Ireland has domestic rates (not council tax). Whether you or your landlord pay the rate bill depends on your tenancy agreement and the property's capital value"
+        },
+        {
+          "id": "nir-ci-t31",
+          "label": "Apply for Housing Benefit and/or Rate Relief if you are a tenant on a low income (via the NI Housing Executive)",
+          "url": "https://www.nidirect.gov.uk/articles/housing-benefit-and-rate-relief-tenants"
+        },
+        {
+          "id": "nir-ci-t32",
+          "label": "Apply for Rate Rebate if you receive Universal Credit and are liable for rates",
+          "url": "https://www.nidirect.gov.uk/articles/homeowners-and-tenants-applying-rate-rebate"
+        },
+        {
+          "id": "nir-ci-t33",
+          "label": "Apply for Lone Pensioner Allowance if you are 70 or over and live alone (20% rates reduction)",
+          "url": "https://www.nidirect.gov.uk/articles/lone-pensioner-allowance"
+        },
+        {
+          "id": "nir-ci-t34",
+          "label": "Apply for Disabled Person's Allowance if the property has features or adaptations for a disabled occupant (25% rates reduction)"
+        },
+        {
+          "id": "nir-ci-t35",
+          "label": "Check whether the property qualifies for a rates exemption (for example a property occupied only by full-time students)",
+          "url": "https://www.nidirect.gov.uk/articles/properties-you-pay-rates"
+        },
+        {
+          "id": "nir-ci-t36",
+          "label": "Update Child Benefit address if applicable",
+          "url": "https://www.gov.uk/find-hmrc-contacts/child-benefit-general-enquiries"
+        },
+        {
+          "id": "nir-ci-t37",
+          "label": "Update Universal Credit address if applicable",
+          "url": "https://www.gov.uk/sign-in-universal-credit"
+        },
+        {
+          "id": "nir-ci-t38",
+          "label": "Update State Pension address if applicable",
+          "url": "https://www.gov.uk/contact-pension-service/report-changes"
+        },
+        {
+          "id": "nir-ci-t39",
+          "label": "Register with a local Health and Social Care (HSC) GP practice",
+          "url": "https://www.nidirect.gov.uk/services/gp-practices"
+        },
+        {
+          "id": "nir-ci-t40",
+          "label": "Register with an HSC (health service) dentist",
+          "url": "https://www.nidirect.gov.uk/articles/seeing-dentist"
+        },
+        {
+          "id": "nir-ci-t41",
+          "label": "Update your nominated pharmacy with your new address for repeat prescription delivery",
+          "dueText": "Can be done via your GP practice or the pharmacy directly"
+        },
+        {
+          "id": "nir-ci-t42",
+          "label": "Set up a standing order for rent"
+        }
+      ]
+    },
+    {
+      "id": "nir-ci-s4",
+      "title": "Within 1 month of moving in",
+      "tasks": [
+        {
+          "id": "nir-ci-t43",
+          "label": "Update all banks, building societies, mortgage lenders and credit cards with your new address"
+        },
+        {
+          "id": "nir-ci-t44",
+          "label": "Update ISA, investment, exchange and brokerage accounts with your new address"
+        },
+        {
+          "id": "nir-ci-t45",
+          "label": "Update life insurance, critical illness and income protection with your new address"
+        },
+        {
+          "id": "nir-ci-t46",
+          "label": "Update solicitor, accountant and will/executor records with your new address"
+        },
+        {
+          "id": "nir-ci-t47",
+          "label": "Update the address on your driving licence with the DVA (free; up to £1,000 fine if not done)",
+          "url": "https://www.nidirect.gov.uk/services/change-address-your-driving-licence-online"
+        },
+        {
+          "id": "nir-ci-t48",
+          "label": "Update your DVLA V5C vehicle log book",
+          "url": "https://www.gov.uk/change-address-v5c"
+        },
+        {
+          "id": "nir-ci-t49",
+          "label": "Update your vehicle insurance address",
+          "dueText": "Your premium may change"
+        },
+        {
+          "id": "nir-ci-t50",
+          "label": "Update your Blue Badge permit address"
+        },
+        {
+          "id": "nir-ci-t51",
+          "label": "Update workplace and personal pension providers with your new address"
+        },
+        {
+          "id": "nir-ci-t52",
+          "label": "Notify HMRC of your address change (Income Tax, National Insurance, tax credits)",
+          "url": "https://www.gov.uk/tell-hmrc-change-of-details"
+        },
+        {
+          "id": "nir-ci-t53",
+          "label": "Update Companies House registered office and director's service address if running a business",
+          "url": "https://www.gov.uk/government/organisations/companies-house"
+        },
+        {
+          "id": "nir-ci-t54",
+          "label": "Update your address with AccessNI if you subscribe to its update service"
+        },
+        {
+          "id": "nir-ci-t55",
+          "label": "Update Student Finance NI address if a student",
+          "url": "https://www.studentfinanceni.co.uk/"
+        },
+        {
+          "id": "nir-ci-t56",
+          "label": "Update vet records and microchip database (Petlog/Identibase) if you have pets"
+        },
+        {
+          "id": "nir-ci-t57",
+          "label": "Register to vote with the Electoral Office for Northern Ireland (EONI)",
+          "url": "https://www.eoni.org.uk/register-to-vote/electoral-registration/",
+          "dueText": "Northern Ireland uses individual electoral registration through EONI"
+        },
+        {
+          "id": "nir-ci-t58",
+          "label": "Update Gift Aid declarations with charities with your new address"
+        },
+        {
+          "id": "nir-ci-t59",
+          "label": "Update PayPal, Amazon, eBay and other frequently used online retailer default shipping addresses"
+        },
+        {
+          "id": "nir-ci-t60",
+          "label": "Update gym and other subscription services (e.g. mobile provider) with your new address"
+        }
+      ]
+    },
+    {
+      "id": "nir-ci-s5",
+      "title": "Deposit and tenancy compliance",
+      "tasks": [
+        {
+          "id": "nir-ci-t61",
+          "label": "Confirm your deposit does not exceed one month's rent (Private Tenancies Act (NI) 2022 cap, from 1 April 2023)"
+        },
+        {
+          "id": "nir-ci-t62",
+          "label": "Confirm your deposit is protected in an approved Northern Ireland scheme (Tenancy Deposit Scheme Northern Ireland or mydeposits Northern Ireland)",
+          "url": "https://www.nidirect.gov.uk/articles/tenancy-deposit-scheme-information-tenants",
+          "dueText": "Landlord must protect the deposit within 28 days and provide prescribed deposit information within 35 days of receiving it"
+        },
+        {
+          "id": "nir-ci-t63",
+          "label": "Receive a written tenancy information notice setting out the rent, term, rates liability and what the deposit can be used for",
+          "url": "https://www.nidirect.gov.uk/articles/private-rent-and-tenancies",
+          "dueText": "Landlord must provide this within 28 days of the tenancy starting (Private Tenancies Act (NI) 2022). There is no England-style 'How to Rent' guide in Northern Ireland"
+        },
+        {
+          "id": "nir-ci-t64",
+          "label": "Ask for a rent book and make sure you get a written receipt for any rent paid in cash"
+        },
+        {
+          "id": "nir-ci-t65",
+          "label": "Check the landlord is registered with the NI Landlord Registration Scheme",
+          "url": "https://www.landlordregistrationni.gov.uk/"
+        },
+        {
+          "id": "nir-ci-t66",
+          "label": "Receive the Energy Performance Certificate (EPC)"
+        },
+        {
+          "id": "nir-ci-t67",
+          "label": "Confirm the property meets electrical safety standards and ask for the electrical safety certificate / Electrical Installation Condition Report (EICR)"
+        },
+        {
+          "id": "nir-ci-t68",
+          "label": "Receive the Gas Safety Certificate, if gas is connected"
+        },
+        {
+          "id": "nir-ci-t69",
+          "label": "Check whether an HMO licence is required and held, and confirm it on the NI HMO register (mandatory for 3+ tenants from 2+ households)",
+          "url": "https://www.belfastcity.gov.uk/nihmo"
+        },
+        {
+          "id": "nir-ci-t70",
+          "label": "Check you were not charged any prohibited tenancy charges beyond rent and a refundable deposit (Private Tenancies Act (Northern Ireland) 2022)"
+        }
+      ]
+    }
+  ]
+}

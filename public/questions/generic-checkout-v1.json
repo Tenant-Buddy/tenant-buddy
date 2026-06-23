@@ -1,0 +1,310 @@
+{
+  "version": "1",
+  "jurisdiction": "generic",
+  "type": "checkout",
+  "sections": [
+    {
+      "id": "gen-co-s1",
+      "title": "Before moving day",
+      "tasks": [
+        {
+          "id": "gen-co-t1",
+          "label": "Give written notice to your landlord/agent per your tenancy agreement and local law; confirm the required notice length and any rules on when it must take effect",
+          "dueText": "Check your agreement for the required notice period"
+        },
+        {
+          "id": "gen-co-t2",
+          "label": "Ask your landlord/agent for their checkout requriements and final inspection arrangements",
+          "dueText": "Checkout process, key return method, cleaning expectations, garden expectations, final inspection date & time"
+        },
+        {
+          "id": "gen-co-t3",
+          "label": "Book removals or van hire / rental"
+        },
+        {
+          "id": "gen-co-t4",
+          "label": "Set up mail forwarding/redirection with your postal service",
+          "dueText": "Arrange several working days ahead"
+        },
+        {
+          "id": "gen-co-t5",
+          "label": "Book end-of-tenancy professional cleaning if required by agreement (keep receipt)"
+        },
+        {
+          "id": "gen-co-t6",
+          "label": "Book professional carpet cleaning if required by agreement (keep receipt)"
+        },
+        {
+          "id": "gen-co-t7",
+          "label": "Book professional upholstery/pet-odour cleaning if you had pets and your agreement requires it (keep the receipt)"
+        },
+        {
+          "id": "gen-co-t8",
+          "label": "Notify gas, electricity and water suppliers of your leaving date"
+        },
+        {
+          "id": "gen-co-t9",
+          "label": "Notify broadband provider: cancel, transfer, or take connectivity with you"
+        },
+        {
+          "id": "gen-co-t10",
+          "label": "Notify contents insurance: cancel, transfer, or update"
+        },
+        {
+          "id": "gen-co-t11",
+          "label": "Update any broadcasting, TV or media licence/fee that applies in your country"
+        },
+        {
+          "id": "gen-co-t12",
+          "label": "Notify the relevant authority for any local property/occupancy taxes or municipal charges of your leaving date and request a final bill"
+        },
+        {
+          "id": "gen-co-t13",
+          "label": "Give your landlord/agent a forwarding address for the deposit return and any final post"
+        },
+        {
+          "id": "gen-co-t14",
+          "label": "Cancel or return any resident/on-street parking permit(s) to the relevant authority or building management"
+        },
+        {
+          "id": "gen-co-t15",
+          "label": "Replace dead lightbulbs with the same type/wattage as the inventory"
+        },
+        {
+          "id": "gen-co-t16",
+          "label": "Mow the lawn, weed and trim hedges if the garden is your responsibility"
+        },
+        {
+          "id": "gen-co-t17",
+          "label": "Repair minor damage permitted by agreement (filler, touch-up paint matched to existing)"
+        }
+      ]
+    },
+    {
+      "id": "gen-co-s2",
+      "title": "Cleaning checklist (deposit-critical if done yourself)",
+      "tasks": [
+        {
+          "id": "gen-co-t18",
+          "label": "Deep clean oven, hob, extractor fan and grill",
+          "dueText": "The #1 deposit dispute"
+        },
+        {
+          "id": "gen-co-t19",
+          "label": "Defrost and clean the fridge and freezer (allow 24 hours)"
+        },
+        {
+          "id": "gen-co-t20",
+          "label": "Clean washing machine drum, seal, detergent drawer and filter"
+        },
+        {
+          "id": "gen-co-t21",
+          "label": "Clean dishwasher filter and run an empty hot cycle with cleaner"
+        },
+        {
+          "id": "gen-co-t22",
+          "label": "Descale showerhead, taps and kettle, and remove limescale from tiles"
+        },
+        {
+          "id": "gen-co-t23",
+          "label": "Bleach toilets including under the rim and behind the seat"
+        },
+        {
+          "id": "gen-co-t24",
+          "label": "Clean grout and silicone seals in bathrooms and kitchen if mouldy"
+        },
+        {
+          "id": "gen-co-t25",
+          "label": "Wipe skirting boards, door frames, light switches and sockets"
+        },
+        {
+          "id": "gen-co-t26",
+          "label": "Wipe inside all cupboards, wardrobes and drawers"
+        },
+        {
+          "id": "gen-co-t27",
+          "label": "Clean inside and outside of all windows and window tracks"
+        },
+        {
+          "id": "gen-co-t28",
+          "label": "Vacuum and mop every floor including under furniture and behind appliances"
+        },
+        {
+          "id": "gen-co-t29",
+          "label": "Remove all picture hooks and fill holes if the agreement requires"
+        },
+        {
+          "id": "gen-co-t30",
+          "label": "Empty and clean all bins; arrange large-item collection via your local waste service or a charity"
+        }
+      ]
+    },
+    {
+      "id": "gen-co-s3",
+      "title": "On moving day",
+      "tasks": [
+        {
+          "id": "gen-co-t31",
+          "label": "Take date-stamped photos and/or video of every empty room, cupboard and appliance"
+        },
+        {
+          "id": "gen-co-t32",
+          "label": "Clear all belongings from every room, plus the loft, shed, garage and any outbuildings",
+          "dueText": "Ensure to check up high on shelves and cupboards"
+        },
+        {
+          "id": "gen-co-t33",
+          "label": "Photograph final meter readings (gas, electricity, water and any separate heating/oil meter)",
+          "dueText": "Ensure the meter serial numbers are visible"
+        },
+        {
+          "id": "gen-co-t34",
+          "label": "Return all keys and fobs: front, back, windows, mailbox, communal, bin store, parking, garage"
+        },
+        {
+          "id": "gen-co-t35",
+          "label": "Switch off power at the consumer unit / fuse board only if instructed"
+        },
+        {
+          "id": "gen-co-t36",
+          "label": "Conduct the check-out inventory inspection with your landlord/agent if possible; get it emailed or signed"
+        },
+        {
+          "id": "gen-co-t37",
+          "label": "Secure the property on your final exit (windows closed, doors locked, heating off, non-essential appliances off, lights off)"
+        },
+        {
+          "id": "gen-co-t38",
+          "label": "Submit final meter readings to suppliers the same day"
+        },
+        {
+          "id": "gen-co-t39",
+          "label": "Get written confirmation/receipt that all keys and fobs were returned, with the date and time"
+        }
+      ]
+    },
+    {
+      "id": "gen-co-s4",
+      "title": "After moving out",
+      "tasks": [
+        {
+          "id": "gen-co-t40",
+          "label": "Request your deposit / security bond return in writing, referencing how it was held/protected",
+          "dueText": "Confirm any timescale for response under your agreement or local law"
+        },
+        {
+          "id": "gen-co-t41",
+          "label": "If there is a deposit dispute, raise it via your local deposit scheme, tribunal, or small-claims process"
+        },
+        {
+          "id": "gen-co-t42",
+          "label": "Pay final utility bills and only then cancel direct debits",
+          "dueText": "Cancelling outstanding direct debits first risks credit issues"
+        },
+        {
+          "id": "gen-co-t43",
+          "label": "Cancel the standing order / recurring payment for rent once the final payment has cleared"
+        },
+        {
+          "id": "gen-co-t44",
+          "label": "Confirm the local property/occupancy tax account is closed and the final bill settled"
+        },
+        {
+          "id": "gen-co-t45",
+          "label": "Update all banks, building societies, mortgage lenders and credit cards with your new address"
+        },
+        {
+          "id": "gen-co-t46",
+          "label": "Update tax-advantaged savings/investment accounts, brokerage and exchange accounts with your new address"
+        },
+        {
+          "id": "gen-co-t47",
+          "label": "Update life insurance, critical illness and income protection with your new address"
+        },
+        {
+          "id": "gen-co-t48",
+          "label": "Update solicitor, accountant and will/executor records with your new address"
+        },
+        {
+          "id": "gen-co-t49",
+          "label": "Update your driving licence address with the relevant authority",
+          "dueText": "Some jurisdictions fine you for not updating it promptly"
+        },
+        {
+          "id": "gen-co-t50",
+          "label": "Update your vehicle registration / log book with the relevant authority"
+        },
+        {
+          "id": "gen-co-t51",
+          "label": "Update your vehicle insurance address",
+          "dueText": "Your premium may change"
+        },
+        {
+          "id": "gen-co-t52",
+          "label": "Update any disabled parking permit or badge with the relevant authority"
+        },
+        {
+          "id": "gen-co-t53",
+          "label": "Update workplace and personal pension providers with your new address"
+        },
+        {
+          "id": "gen-co-t54",
+          "label": "Notify your tax authority of your address change (income tax, social security/national insurance and any tax credits)"
+        },
+        {
+          "id": "gen-co-t55",
+          "label": "Update your business/company registration address (registered office and director's service address) if you run a business"
+        },
+        {
+          "id": "gen-co-t56",
+          "label": "Update any government benefits, student finance provider or social security bodies you deal with"
+        },
+        {
+          "id": "gen-co-t57",
+          "label": "Update vet records and pet microchip database if you have pets"
+        },
+        {
+          "id": "gen-co-t58",
+          "label": "Update default shipping addresses with frequently used online retailers and payment services"
+        },
+        {
+          "id": "gen-co-t59",
+          "label": "Update gym and other subscription services (e.g. mobile provider) with your new address"
+        },
+        {
+          "id": "gen-co-t60",
+          "label": "Update your voter registration at your new address, if applicable"
+        },
+        {
+          "id": "gen-co-t61",
+          "label": "Check if any post is still arriving for you at the old address after a few months"
+        }
+      ]
+    },
+    {
+      "id": "gen-co-s5",
+      "title": "Deposit protection",
+      "tasks": [
+        {
+          "id": "gen-co-t62",
+          "label": "Keep tenancy agreement, inventory, photos and correspondence for at least the limitation period for disputes in your jurisdiction (often several years)"
+        },
+        {
+          "id": "gen-co-t63",
+          "label": "Reject deductions for fair wear and tear",
+          "dueText": "Landlord must prove damage beyond normal use"
+        },
+        {
+          "id": "gen-co-t64",
+          "label": "Reject 'betterment' deductions",
+          "dueText": "Landlord cannot charge new-for-old on used items — replacement must be like-for-like"
+        },
+        {
+          "id": "gen-co-t65",
+          "label": "Reference the move-in inventory and your amendments for any disputes",
+          "dueText": "Note if damage was already present and documented, or if their provided inventory has poor-quality images that do not prove the damage did not already exist"
+        }
+      ]
+    }
+  ]
+}

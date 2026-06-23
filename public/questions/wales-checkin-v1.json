@@ -1,0 +1,346 @@
+{
+  "version": "1",
+  "jurisdiction": "wales",
+  "type": "checkin",
+  "sections": [
+    {
+      "id": "wal-ci-s1",
+      "title": "Before moving day",
+      "tasks": [
+        {
+          "id": "wal-ci-t1",
+          "label": "Arrange contents insurance from day one of the occupation contract"
+        },
+        {
+          "id": "wal-ci-t2",
+          "label": "Terminate or move (if possible) your existing broadband account",
+          "dueText": "1+ month ahead"
+        },
+        {
+          "id": "wal-ci-t3",
+          "label": "Book broadband install for move-in day or shortly thereafter",
+          "dueText": "1+ month ahead, but may be blocked by an existing active account"
+        },
+        {
+          "id": "wal-ci-t4",
+          "label": "Arrange moving-van access and a parking permit (e.g. with the council if on-street, or with building management if available)",
+          "url": "https://www.gov.uk/parking-permit"
+        },
+        {
+          "id": "wal-ci-t5",
+          "label": "Set up Royal Mail post redirection",
+          "url": "https://www.royalmail.com/personal/receiving-mail/redirection",
+          "dueText": "5+ working days ahead"
+        },
+        {
+          "id": "wal-ci-t6",
+          "label": "Update your TV Licence",
+          "url": "https://www.tvlicensing.co.uk/check-if-you-need-one/for-your-home/youre-moving-address-aud23"
+        }
+      ]
+    },
+    {
+      "id": "wal-ci-s2",
+      "title": "On moving day",
+      "tasks": [
+        {
+          "id": "wal-ci-t7",
+          "label": "Collect all keys and fobs: front door, back door, windows, mailbox, communal, garage/parking, bin store, cycle store, alarm codes"
+        },
+        {
+          "id": "wal-ci-t8",
+          "label": "Test every key/fob in every lock"
+        },
+        {
+          "id": "wal-ci-t9",
+          "label": "Test the door entry / intercom / buzzer system and any communal-door fobs"
+        },
+        {
+          "id": "wal-ci-t10",
+          "label": "Take date-stamped photos of gas, electricity, water and heating meters",
+          "dueText": "Ensure the meter serial number is visible"
+        },
+        {
+          "id": "wal-ci-t11",
+          "label": "Check for any outstanding debt left by prior contract-holders if any meter is prepayment (key/card/PAYG)"
+        },
+        {
+          "id": "wal-ci-t12",
+          "label": "Take a video walkthrough of every room, narrating and zooming in on any defects"
+        },
+        {
+          "id": "wal-ci-t13",
+          "label": "Photograph inside the oven, fridge and freezer (including all drawers), washing machine drum and seal, and dishwasher filter"
+        },
+        {
+          "id": "wal-ci-t14",
+          "label": "Photograph inside every cupboard, wardrobe and drawer across all rooms"
+        },
+        {
+          "id": "wal-ci-t15",
+          "label": "Photograph any damage to floors, walls, skirting, ceilings, doors, windows and garden (scuffs, marks, scratches, stains, mould, chipped tiles, burns or empty spots)"
+        },
+        {
+          "id": "wal-ci-t16",
+          "label": "Photograph all curtains, blinds and lampshades (fixed and portable)"
+        },
+        {
+          "id": "wal-ci-t17",
+          "label": "Check the inventory line by line against actual item condition -- note where condition is worse than stated, or where photos are not high enough resolution to show damage"
+        },
+        {
+          "id": "wal-ci-t18",
+          "label": "Test all smoke alarms (one is required on every storey) and the carbon monoxide alarm (required in any room with a gas, oil or solid-fuel appliance) under the Fitness for Human Habitation rules"
+        },
+        {
+          "id": "wal-ci-t19",
+          "label": "Locate the water stopcock, gas shut-off valve and consumer unit / fuse board",
+          "dueText": "Ask the landlord or letting agents if not obvious"
+        },
+        {
+          "id": "wal-ci-t20",
+          "label": "Test the boiler, hot water, heating and every individual radiator"
+        },
+        {
+          "id": "wal-ci-t21",
+          "label": "Run every tap (including outdoor taps and showers/baths) and flush every toilet"
+        },
+        {
+          "id": "wal-ci-t22",
+          "label": "Test every hob ring, oven, extractor fan, microwave, kettle and other provided kitchen appliances"
+        },
+        {
+          "id": "wal-ci-t23",
+          "label": "Test all bulbs, including within the extractor fan and any workspace / countertop lighting"
+        },
+        {
+          "id": "wal-ci-t24",
+          "label": "Check every window opens, closes and locks"
+        },
+        {
+          "id": "wal-ci-t25",
+          "label": "Check for damp, mould and pest evidence (droppings or smell behind furniture / major appliances)"
+        },
+        {
+          "id": "wal-ci-t26",
+          "label": "Confirm the landlord/letting agent emergency and out-of-hours repair contact details (check your occupation contract)"
+        }
+      ]
+    },
+    {
+      "id": "wal-ci-s3",
+      "title": "Within 7 days of moving in",
+      "tasks": [
+        {
+          "id": "wal-ci-t27",
+          "label": "Submit your own inventory amendment promptly with all comments and photos by email"
+        },
+        {
+          "id": "wal-ci-t28",
+          "label": "Open or move accounts and submit meter readings to gas, electricity and heating suppliers"
+        },
+        {
+          "id": "wal-ci-t29",
+          "label": "Set up your water and sewerage account with Dŵr Cymru Welsh Water (or Hafren Dyfrdwy in parts of north-east / mid Wales)",
+          "url": "https://www.dwrcymru.com/en/my-account/moving-home"
+        },
+        {
+          "id": "wal-ci-t30",
+          "label": "Find out refuse and recycling collection days and bin/recycling store arrangements"
+        },
+        {
+          "id": "wal-ci-t31",
+          "label": "Register for council tax with your new local authority",
+          "url": "https://www.gov.wales/council-tax",
+          "dueText": "Within 21 days typically"
+        },
+        {
+          "id": "wal-ci-t32",
+          "label": "Apply for single person discount (25%) if living alone",
+          "url": "https://www.gov.wales/council-tax-discounts-disregards-exemptions-and-reductions"
+        },
+        {
+          "id": "wal-ci-t33",
+          "label": "Apply for council tax student exemption or disregard if applicable",
+          "url": "https://www.gov.wales/council-tax-discounts-disregards-exemptions-and-reductions"
+        },
+        {
+          "id": "wal-ci-t34",
+          "label": "Apply for disabled band reduction if applicable",
+          "url": "https://www.gov.wales/council-tax-discounts-disregards-exemptions-and-reductions"
+        },
+        {
+          "id": "wal-ci-t35",
+          "label": "Apply for Council Tax Reduction if on a low income",
+          "url": "https://www.gov.wales/council-tax-discounts-disregards-exemptions-and-reductions"
+        },
+        {
+          "id": "wal-ci-t36",
+          "label": "Update Child Benefit address if applicable",
+          "url": "https://www.gov.uk/find-hmrc-contacts/child-benefit-general-enquiries"
+        },
+        {
+          "id": "wal-ci-t37",
+          "label": "Update Universal Credit address if applicable",
+          "url": "https://www.gov.uk/sign-in-universal-credit"
+        },
+        {
+          "id": "wal-ci-t38",
+          "label": "Update State Pension address if applicable",
+          "url": "https://www.gov.uk/contact-pension-service/report-changes"
+        },
+        {
+          "id": "wal-ci-t39",
+          "label": "Register with a local NHS Wales GP surgery",
+          "url": "https://111.wales.nhs.uk/localservices/gpfaq/"
+        },
+        {
+          "id": "wal-ci-t40",
+          "label": "Register for NHS dental care in Wales via the Dental Access Portal",
+          "url": "https://www.gov.wales/accessing-nhs-dental-services"
+        },
+        {
+          "id": "wal-ci-t41",
+          "label": "Update your nominated pharmacy with your new address for repeat prescription delivery",
+          "dueText": "Can be done via your GP or the pharmacy directly"
+        },
+        {
+          "id": "wal-ci-t42",
+          "label": "Set up a standing order for rent"
+        }
+      ]
+    },
+    {
+      "id": "wal-ci-s4",
+      "title": "Within 1 month of moving in",
+      "tasks": [
+        {
+          "id": "wal-ci-t43",
+          "label": "Update all banks, building societies, mortgage lenders and credit cards with your new address"
+        },
+        {
+          "id": "wal-ci-t44",
+          "label": "Update ISA, investment, exchange and brokerage accounts with your new address"
+        },
+        {
+          "id": "wal-ci-t45",
+          "label": "Update life insurance, critical illness and income protection with your new address"
+        },
+        {
+          "id": "wal-ci-t46",
+          "label": "Update solicitor, accountant and will/executor records with your new address"
+        },
+        {
+          "id": "wal-ci-t47",
+          "label": "Update your DVLA driving licence address (free; up to £1,000 fine if not done)",
+          "url": "https://www.gov.uk/change-address-driving-licence"
+        },
+        {
+          "id": "wal-ci-t48",
+          "label": "Update your DVLA V5C vehicle log book",
+          "url": "https://www.gov.uk/change-address-v5c"
+        },
+        {
+          "id": "wal-ci-t49",
+          "label": "Update your vehicle insurance address",
+          "dueText": "Your premium may change"
+        },
+        {
+          "id": "wal-ci-t50",
+          "label": "Update your Blue Badge permit address"
+        },
+        {
+          "id": "wal-ci-t51",
+          "label": "Update workplace and personal pension providers with your new address"
+        },
+        {
+          "id": "wal-ci-t52",
+          "label": "Notify HMRC of your address change (Income Tax, National Insurance, tax credits)",
+          "url": "https://www.gov.uk/tell-hmrc-change-of-details"
+        },
+        {
+          "id": "wal-ci-t53",
+          "label": "Update Companies House registered office and director's service address if running a business",
+          "url": "https://www.gov.uk/government/organisations/companies-house"
+        },
+        {
+          "id": "wal-ci-t54",
+          "label": "Update the Disclosure and Barring Service (DBS) Update Service",
+          "url": "https://www.gov.uk/dbs-update-service"
+        },
+        {
+          "id": "wal-ci-t55",
+          "label": "Update Student Finance Wales address if a student",
+          "url": "https://www.studentfinancewales.co.uk/"
+        },
+        {
+          "id": "wal-ci-t56",
+          "label": "Update vet records and microchip database (Petlog/Identibase) if you have pets"
+        },
+        {
+          "id": "wal-ci-t57",
+          "label": "Register on the electoral roll (for Senedd and local elections)",
+          "url": "https://www.gov.uk/register-to-vote"
+        },
+        {
+          "id": "wal-ci-t58",
+          "label": "Update Gift Aid declarations with charities with your new address"
+        },
+        {
+          "id": "wal-ci-t59",
+          "label": "Update PayPal, Amazon, eBay and other frequently used online retailer default shipping addresses"
+        },
+        {
+          "id": "wal-ci-t60",
+          "label": "Update gym and other subscription services (e.g. mobile provider) with your new address"
+        }
+      ]
+    },
+    {
+      "id": "wal-ci-s5",
+      "title": "Occupation contract and compliance",
+      "tasks": [
+        {
+          "id": "wal-ci-t61",
+          "label": "Receive your written statement of the occupation contract",
+          "url": "https://www.gov.wales/renting-homes-frequently-asked-questions-tenants",
+          "dueText": "Landlord must provide within 14 days of occupation (Renting Homes (Wales) Act 2016)"
+        },
+        {
+          "id": "wal-ci-t62",
+          "label": "Check your landlord is registered and your landlord or agent is licensed using the Rent Smart Wales public register",
+          "url": "https://rentsmart.gov.wales/en/check-register/"
+        },
+        {
+          "id": "wal-ci-t63",
+          "label": "Check you were not charged any banned letting fees and that any holding deposit did not exceed 1 week's rent (Renting Homes (Fees etc.) (Wales) Act 2019)",
+          "url": "https://www.gov.wales/law-ban-letting-fees-receives-royal-assent"
+        },
+        {
+          "id": "wal-ci-t64",
+          "label": "Receive Deposit Protection prescribed information (confirm the deposit is protected in DPS, mydeposits or TDS)",
+          "url": "https://www.gov.wales/deposits-guidance-tenants",
+          "dueText": "Landlord must protect within 30 days. Note: Wales has no statutory cap on the security deposit amount."
+        },
+        {
+          "id": "wal-ci-t65",
+          "label": "Receive the Energy Performance Certificate (EPC)",
+          "dueText": "Minimum 'E' rating, unless exempt"
+        },
+        {
+          "id": "wal-ci-t66",
+          "label": "Confirm a valid Electrical Installation Condition Report (EICR) is in place (required at least every 5 years under the Fitness for Human Habitation rules)"
+        },
+        {
+          "id": "wal-ci-t67",
+          "label": "Receive the Gas Safety Certificate, if gas is connected"
+        },
+        {
+          "id": "wal-ci-t68",
+          "label": "Check whether an HMO licence is required and held, and that the property is licensed via Rent Smart Wales / your local authority",
+          "url": "https://rentsmart.gov.wales/en/check-register/"
+        }
+      ]
+    }
+  ]
+}

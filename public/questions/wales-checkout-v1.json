@@ -1,330 +1,328 @@
 {
   "version": "1",
-  "jurisdiction": "scotland",
+  "jurisdiction": "wales",
   "type": "checkout",
   "sections": [
     {
-      "id": "sct-co-s1",
+      "id": "wal-co-s1",
       "title": "Before moving day",
       "tasks": [
         {
-          "id": "sct-co-t1",
-          "label": "Give written notice to your landlord/agent to end your Private Residential Tenancy (PRT)",
-          "dueText": "Minimum of 28 days' written notice"
+          "id": "wal-co-t1",
+          "label": "Give written notice to your landlord or letting agent to end the occupation contract",
+          "dueText": "At least 4 weeks' written notice under a standard occupation contract (Renting Homes (Wales) Act 2016)"
         },
         {
-          "id": "sct-co-t2",
-          "label": "Ask your landlord/agent for their checkout requirements",
+          "id": "wal-co-t2",
+          "label": "Ask your landlord or letting agent about their checkout expectations",
           "dueText": "Checkout process, key return method, cleaning expectations, garden expectations, final inspection date & time"
         },
         {
-          "id": "sct-co-t3",
-          "label": "Book removals or van hire / rental"
+          "id": "wal-co-t3",
+          "label": "Book a removal company or hire a van"
         },
         {
-          "id": "sct-co-t4",
+          "id": "wal-co-t4",
           "label": "Set up Royal Mail post redirection (valid for 3–12 months)",
           "url": "https://www.royalmail.com/personal/receiving-mail/redirection",
           "dueText": "Allow 5+ working days"
         },
         {
-          "id": "sct-co-t5",
-          "label": "Book end-of-tenancy professional cleaning if required by agreement (keep receipt)"
+          "id": "wal-co-t5",
+          "label": "Book end-of-contract professional cleaning if required by agreement (keep receipt)"
         },
         {
-          "id": "sct-co-t6",
+          "id": "wal-co-t6",
           "label": "Book professional carpet cleaning if required by agreement (keep receipt)"
         },
         {
-          "id": "sct-co-t7",
-          "label": "Book professional upholstery/pet-odour cleaning if you kept pets and your agreement requires it (keep the receipt)"
+          "id": "wal-co-t7",
+          "label": "Book professional pet upholstery cleaning if required by agreement (keep receipt)"
         },
         {
-          "id": "sct-co-t8",
-          "label": "Notify gas and electricity suppliers of your leaving date",
-          "dueText": "Water and sewerage are billed via council tax on behalf of Scottish Water, so there is no separate water supplier to notify"
+          "id": "wal-co-t8",
+          "label": "Notify gas, electricity and water/sewerage suppliers of your leaving date (water is usually Dŵr Cymru Welsh Water, or Hafren Dyfrdwy in parts of north-east / mid Wales)"
         },
         {
-          "id": "sct-co-t9",
+          "id": "wal-co-t9",
           "label": "Notify broadband provider: cancel, transfer, or take connectivity with you"
         },
         {
-          "id": "sct-co-t10",
+          "id": "wal-co-t10",
           "label": "Notify contents insurance: cancel, transfer, or update"
         },
         {
-          "id": "sct-co-t11",
+          "id": "wal-co-t11",
           "label": "Notify TV Licence of your move",
           "url": "https://www.tvlicensing.co.uk/check-if-you-need-one/for-your-home/youre-moving-address-aud23"
         },
         {
-          "id": "sct-co-t12",
-          "label": "Notify your council of your leaving date and request a final council tax bill",
-          "url": "https://www.mygov.scot/council-tax"
+          "id": "wal-co-t12",
+          "label": "Notify your local authority of your council tax leaving date and request a final bill",
+          "url": "https://www.gov.wales/council-tax"
         },
         {
-          "id": "sct-co-t13",
-          "label": "Give your landlord/agent a forwarding address for the deposit return and any final post"
+          "id": "wal-co-t13",
+          "label": "Give your landlord or letting agent a forwarding address for the deposit return and any final post"
         },
         {
-          "id": "sct-co-t14",
+          "id": "wal-co-t14",
           "label": "Cancel or return any resident parking permit(s) to the council"
         },
         {
-          "id": "sct-co-t15",
+          "id": "wal-co-t15",
           "label": "Replace dead lightbulbs with the same type/wattage as the inventory"
         },
         {
-          "id": "sct-co-t16",
+          "id": "wal-co-t16",
           "label": "Mow the lawn, weed and trim hedges if the garden is your responsibility"
         },
         {
-          "id": "sct-co-t17",
+          "id": "wal-co-t17",
           "label": "Repair minor damage permitted by agreement (filler, touch-up paint matched to existing)"
         }
       ]
     },
     {
-      "id": "sct-co-s2",
+      "id": "wal-co-s2",
       "title": "Cleaning checklist (deposit-critical if done yourself)",
       "tasks": [
         {
-          "id": "sct-co-t18",
+          "id": "wal-co-t18",
           "label": "Deep clean oven, hob, extractor fan and grill",
           "dueText": "The #1 deposit dispute"
         },
         {
-          "id": "sct-co-t19",
+          "id": "wal-co-t19",
           "label": "Defrost and clean the fridge and freezer (allow 24 hours)"
         },
         {
-          "id": "sct-co-t20",
+          "id": "wal-co-t20",
           "label": "Clean washing machine drum, seal, detergent drawer and filter"
         },
         {
-          "id": "sct-co-t21",
+          "id": "wal-co-t21",
           "label": "Clean dishwasher filter and run an empty hot cycle with cleaner"
         },
         {
-          "id": "sct-co-t22",
+          "id": "wal-co-t22",
           "label": "Descale showerhead, taps, kettle and limescale on tiles"
         },
         {
-          "id": "sct-co-t23",
+          "id": "wal-co-t23",
           "label": "Bleach toilets including under the rim and behind the seat"
         },
         {
-          "id": "sct-co-t24",
+          "id": "wal-co-t24",
           "label": "Clean grout and silicone seals in bathrooms and kitchen if mouldy"
         },
         {
-          "id": "sct-co-t25",
+          "id": "wal-co-t25",
           "label": "Wipe skirting boards, door frames, light switches and sockets"
         },
         {
-          "id": "sct-co-t26",
+          "id": "wal-co-t26",
           "label": "Wipe inside all cupboards, wardrobes and drawers"
         },
         {
-          "id": "sct-co-t27",
+          "id": "wal-co-t27",
           "label": "Clean inside and outside of all windows and window tracks"
         },
         {
-          "id": "sct-co-t28",
+          "id": "wal-co-t28",
           "label": "Vacuum and mop every floor including under furniture and behind appliances"
         },
         {
-          "id": "sct-co-t29",
+          "id": "wal-co-t29",
           "label": "Remove all picture hooks and fill holes if the agreement requires"
         },
         {
-          "id": "sct-co-t30",
+          "id": "wal-co-t30",
           "label": "Empty and clean all bins; arrange large-item collection via the council or a charity"
         }
       ]
     },
     {
-      "id": "sct-co-s3",
+      "id": "wal-co-s3",
       "title": "On moving day",
       "tasks": [
         {
-          "id": "sct-co-t31",
+          "id": "wal-co-t31",
           "label": "Take date-stamped photos and/or video of every empty room, cupboard and appliance"
         },
         {
-          "id": "sct-co-t32",
+          "id": "wal-co-t32",
           "label": "Clear all belongings from every room, plus the loft, shed, garage and any outbuildings",
           "dueText": "Ensure to check up high on shelves and cupboards"
         },
         {
-          "id": "sct-co-t33",
-          "label": "Photograph final meter readings (gas, electricity, heating)",
-          "dueText": "Ensure the meter serial numbers are visible. Water in Scotland is billed via council tax, so no separate water meter reading is normally needed"
+          "id": "wal-co-t33",
+          "label": "Photograph final meter readings (gas, electricity, heating, water)",
+          "dueText": "Ensure the meter serial numbers are visible"
         },
         {
-          "id": "sct-co-t34",
-          "label": "Return all keys & fobs: front, back, windows, mailbox, communal, fob, bin store, parking, garage"
+          "id": "wal-co-t34",
+          "label": "Return all keys & fobs: front, back, windows, mailbox, communal, bin store, parking, garage"
         },
         {
-          "id": "sct-co-t35",
+          "id": "wal-co-t35",
           "label": "Switch off power at the consumer unit only if instructed"
         },
         {
-          "id": "sct-co-t36",
-          "label": "Conduct the check-out inventory inspection with your landlord/agent if possible; get it emailed or signed"
+          "id": "wal-co-t36",
+          "label": "Conduct the check-out inventory inspection with your landlord or letting agent if possible; get it emailed or signed"
         },
         {
-          "id": "sct-co-t37",
+          "id": "wal-co-t37",
           "label": "Secure the property on your final exit (windows closed, doors locked, heating off, non-essential appliances off, lights off)"
         },
         {
-          "id": "sct-co-t38",
+          "id": "wal-co-t38",
           "label": "Submit final meter readings to suppliers the same day"
         }
       ]
     },
     {
-      "id": "sct-co-s4",
+      "id": "wal-co-s4",
       "title": "After moving out",
       "tasks": [
         {
-          "id": "sct-co-t39",
-          "label": "Request deposit return in writing referencing your approved scheme (SafeDeposits Scotland, Letting Protection Service Scotland or mydeposits Scotland)",
-          "url": "https://www.mygov.scot/tenant-deposits",
-          "dueText": "Your deposit must normally be repaid within 30 working days of the tenancy ending (Tenancy Deposit Schemes (Scotland) Regulations 2011)."
+          "id": "wal-co-t39",
+          "label": "Request deposit return in writing referencing the protection scheme (DPS, mydeposits or TDS)",
+          "url": "https://www.gov.uk/tenancy-deposit-protection",
+          "dueText": "Once you and the landlord agree the amount to be returned, it must be repaid within 10 days."
         },
         {
-          "id": "sct-co-t40",
-          "label": "If there is a deposit dispute, raise it with your scheme's free dispute resolution / adjudication service directly",
-          "url": "https://www.mygov.scot/tenant-deposits"
+          "id": "wal-co-t40",
+          "label": "If there is a deposit dispute, raise it with the scheme's free adjudication service directly"
         },
         {
-          "id": "sct-co-t41",
-          "label": "Pay final utility bills and only then cancel direct debits",
-          "dueText": "Cancelling outstanding direct debits first risks credit issues"
+          "id": "wal-co-t41",
+          "label": "Pay final utility bills (including water/sewerage) and only then cancel direct debits",
+          "dueText": "Cancel direct debits only after final bills are paid, or you risk missed payments and credit problems."
         },
         {
-          "id": "sct-co-t42",
+          "id": "wal-co-t42",
           "label": "Cancel the standing order for rent once the final payment has cleared"
         },
         {
-          "id": "sct-co-t43",
+          "id": "wal-co-t43",
           "label": "Confirm council tax account closed and final bill received",
-          "url": "https://www.mygov.scot/council-tax"
+          "url": "https://www.gov.wales/council-tax"
         },
         {
-          "id": "sct-co-t44",
+          "id": "wal-co-t44",
           "label": "Update all banks, building societies, mortgage lenders and credit cards with your new address"
         },
         {
-          "id": "sct-co-t45",
+          "id": "wal-co-t45",
           "label": "Update ISA, investment, exchange and brokerage accounts with your new address"
         },
         {
-          "id": "sct-co-t46",
+          "id": "wal-co-t46",
           "label": "Update life insurance, critical illness and income protection with your new address"
         },
         {
-          "id": "sct-co-t47",
+          "id": "wal-co-t47",
           "label": "Update solicitor, accountant and will/executor records with your new address"
         },
         {
-          "id": "sct-co-t48",
+          "id": "wal-co-t48",
           "label": "Update your DVLA driving licence address (free; up to £1,000 fine if not done)",
           "url": "https://www.gov.uk/change-address-driving-licence"
         },
         {
-          "id": "sct-co-t49",
+          "id": "wal-co-t49",
           "label": "Update your DVLA V5C vehicle log book",
           "url": "https://www.gov.uk/change-address-v5c"
         },
         {
-          "id": "sct-co-t50",
+          "id": "wal-co-t50",
           "label": "Update your vehicle insurance address",
           "dueText": "Your premium may change"
         },
         {
-          "id": "sct-co-t51",
+          "id": "wal-co-t51",
           "label": "Update your Blue Badge permit address"
         },
         {
-          "id": "sct-co-t52",
+          "id": "wal-co-t52",
           "label": "Update workplace and personal pension providers with your new address"
         },
         {
-          "id": "sct-co-t53",
+          "id": "wal-co-t53",
           "label": "Notify HMRC of your address change (Income Tax, National Insurance, tax credits, Child Benefit)",
           "url": "https://www.gov.uk/tell-hmrc-change-of-details"
         },
         {
-          "id": "sct-co-t54",
+          "id": "wal-co-t54",
           "label": "Update Companies House registered office and director's service address if running a business",
           "url": "https://www.gov.uk/government/organisations/companies-house"
         },
         {
-          "id": "sct-co-t55",
-          "label": "Update your address with Disclosure Scotland / your PVG Scheme membership if applicable",
-          "url": "https://www.mygov.scot/disclosure-levels"
+          "id": "wal-co-t55",
+          "label": "Update the Disclosure and Barring Service (DBS) Update Service",
+          "url": "https://www.gov.uk/dbs-update-service"
         },
         {
-          "id": "sct-co-t56",
-          "label": "Update your student funding address with the Student Awards Agency Scotland (SAAS) if a Scottish student",
-          "url": "https://www.saas.gov.uk/"
+          "id": "wal-co-t56",
+          "label": "Update Student Finance Wales address if a student",
+          "url": "https://www.studentfinancewales.co.uk/"
         },
         {
-          "id": "sct-co-t57",
+          "id": "wal-co-t57",
           "label": "Update vet records and microchip database (Petlog/Identibase) if you have pets"
         },
         {
-          "id": "sct-co-t58",
+          "id": "wal-co-t58",
           "label": "Update Gift Aid declarations with charities with your new address"
         },
         {
-          "id": "sct-co-t59",
+          "id": "wal-co-t59",
           "label": "Update PayPal, Amazon, eBay and other frequently used online retailer default shipping addresses"
         },
         {
-          "id": "sct-co-t60",
+          "id": "wal-co-t60",
           "label": "Update gym and other subscription services (e.g. mobile provider) with your new address"
         },
         {
-          "id": "sct-co-t61",
-          "label": "Register on the electoral roll at your new address",
+          "id": "wal-co-t61",
+          "label": "Register on the electoral roll at your new address (for Senedd and local elections)",
           "url": "https://www.gov.uk/register-to-vote"
         },
         {
-          "id": "sct-co-t62",
+          "id": "wal-co-t62",
           "label": "Check if any post is still arriving for you at the old address after 3 months"
-        },
-        {
-          "id": "sct-co-t63",
-          "label": "Update your GP, dentist and other NHS/medical records with your new address"
         }
       ]
     },
     {
-      "id": "sct-co-s5",
+      "id": "wal-co-s5",
       "title": "Deposit protection",
       "tasks": [
         {
-          "id": "sct-co-t64",
-          "label": "Keep tenancy agreement, inventory, photos and correspondence for at least 5 years",
-          "dueText": "Scotland's legal prescription period is 5 years under the Prescription and Limitation (Scotland) Act 1973"
+          "id": "wal-co-t63",
+          "label": "Keep your written statement of the occupation contract, inventory, photos and correspondence for at least 6 years"
         },
         {
-          "id": "sct-co-t65",
+          "id": "wal-co-t64",
           "label": "Reject deductions for fair wear and tear",
           "dueText": "Landlord must prove damage beyond normal use"
         },
         {
-          "id": "sct-co-t66",
+          "id": "wal-co-t65",
           "label": "Reject 'betterment' deductions",
-          "dueText": "Landlord cannot charge new-for-old on used items – replacement must be like-for-like"
+          "dueText": "Landlord cannot charge new-for-old on used items -- replacement must be like-for-like"
         },
         {
-          "id": "sct-co-t67",
+          "id": "wal-co-t66",
           "label": "Reference the move-in inventory and your amendments for any disputes",
-          "dueText": "Note if damage was already present and documented, or if their provided inventory has poor-quality images that do not prove the damage did not already exist"
+          "dueText": "Note any damage already present and documented at move-in. If the landlord's inventory images are poor quality, they may not prove the damage is new."
+        },
+        {
+          "id": "wal-co-t67",
+          "label": "Direct deposit and end-of-contract correspondence to the party named on your written statement; check the landlord/agent on the Rent Smart Wales public register if unsure",
+          "url": "https://rentsmart.gov.wales/en/check-register/"
         }
       ]
     }

@@ -1,0 +1,256 @@
+{
+  "version": "1",
+  "jurisdiction": "generic",
+  "type": "checkin",
+  "sections": [
+    {
+      "id": "gen-ci-s1",
+      "title": "Before moving day",
+      "tasks": [
+        {
+          "id": "gen-ci-t1",
+          "label": "Arrange contents insurance from day one of the tenancy"
+        },
+        {
+          "id": "gen-ci-t2",
+          "label": "Terminate or move (if possible) your existing broadband account",
+          "dueText": "1+ month ahead"
+        },
+        {
+          "id": "gen-ci-t3",
+          "label": "Book broadband install for move-in day or shortly thereafter",
+          "dueText": "1+ month ahead, but may be blocked by an existing active account"
+        },
+        {
+          "id": "gen-ci-t4",
+          "label": "Arrange moving-van access and any parking permit you need (e.g. with the local authority if on-street, or with building management if available)"
+        },
+        {
+          "id": "gen-ci-t5",
+          "label": "Set up mail redirection with your postal service",
+          "dueText": "Arrange several working days ahead"
+        }
+      ]
+    },
+    {
+      "id": "gen-ci-s2",
+      "title": "On moving day",
+      "tasks": [
+        {
+          "id": "gen-ci-t6",
+          "label": "Collect all keys and fobs: front door, back door, windows, mailbox, communal, garage/parking, bin store, cycle store, alarm codes"
+        },
+        {
+          "id": "gen-ci-t7",
+          "label": "Test every key/fob in every lock"
+        },
+        {
+          "id": "gen-ci-t8",
+          "label": "Test the door entry / intercom / buzzer system and any communal-door fobs"
+        },
+        {
+          "id": "gen-ci-t9",
+          "label": "Take date-stamped photos of gas, electricity, water and heating meters",
+          "dueText": "Ensure the meter serial number is visible"
+        },
+        {
+          "id": "gen-ci-t10",
+          "label": "Check for any outstanding debt left by prior tenants if any meter is prepayment/key/card/pay-as-you-go"
+        },
+        {
+          "id": "gen-ci-t11",
+          "label": "Take a video walkthrough of every room, narrating and zooming in on any defects"
+        },
+        {
+          "id": "gen-ci-t12",
+          "label": "Photograph inside the oven, fridge, freezer and its drawers, washing machine drum and seal, and dishwasher filter"
+        },
+        {
+          "id": "gen-ci-t13",
+          "label": "Photograph inside every cupboard, wardrobe and drawer across all rooms"
+        },
+        {
+          "id": "gen-ci-t14",
+          "label": "Photograph any damage to floors, walls, skirting, ceilings, doors, windows and garden (scuffs, marks, scratches, stains, mould, chipped tiles, burns or worn or bald patches)"
+        },
+        {
+          "id": "gen-ci-t15",
+          "label": "Photograph all curtains, blinds and lampshades (fixed and portable)"
+        },
+        {
+          "id": "gen-ci-t16",
+          "label": "Check the inventory line by line against actual item condition -- note where condition is worse than stated, or where photos are not high enough resolution to show damage"
+        },
+        {
+          "id": "gen-ci-t17",
+          "label": "Test all smoke alarms and carbon monoxide (CO) alarms"
+        },
+        {
+          "id": "gen-ci-t18",
+          "label": "Locate the water stopcock / shut-off valve, gas shut-off valve and the fuse board / consumer unit",
+          "dueText": "Ask the landlord or letting agent if not obvious"
+        },
+        {
+          "id": "gen-ci-t19",
+          "label": "Test the boiler, hot water, heating and every individual radiator"
+        },
+        {
+          "id": "gen-ci-t20",
+          "label": "Run every tap (including outdoor taps and showers/baths) and flush every toilet"
+        },
+        {
+          "id": "gen-ci-t21",
+          "label": "Test every hob ring, oven, extractor fan, microwave, kettle and other provided kitchen appliances"
+        },
+        {
+          "id": "gen-ci-t22",
+          "label": "Test all bulbs, including within the extractor fan and any workspace / countertop lighting"
+        },
+        {
+          "id": "gen-ci-t23",
+          "label": "Check every window opens, closes and locks"
+        },
+        {
+          "id": "gen-ci-t24",
+          "label": "Check for damp, mould and pest evidence (droppings or smell behind furniture / major appliances)"
+        },
+        {
+          "id": "gen-ci-t25",
+          "label": "Check in your contract or confirm the landlord/letting agent emergency and out-of-hours repair contact details"
+        }
+      ]
+    },
+    {
+      "id": "gen-ci-s3",
+      "title": "Within 7 days of moving in",
+      "tasks": [
+        {
+          "id": "gen-ci-t26",
+          "label": "Submit your own inventory amendment promptly with all comments and photos by email"
+        },
+        {
+          "id": "gen-ci-t27",
+          "label": "Open or move accounts and submit meter readings to gas, electricity, water and sewerage suppliers (and any communal/district heating provider, if applicable)"
+        },
+        {
+          "id": "gen-ci-t28",
+          "label": "Find out refuse and recycling collection days and bin/recycling store arrangements"
+        },
+        {
+          "id": "gen-ci-t29",
+          "label": "Register for any local property/residence tax or municipal charges, and apply for any discounts or exemptions you qualify for (e.g. single-occupant, student, low-income, disability)"
+        },
+        {
+          "id": "gen-ci-t30",
+          "label": "Transfer or register any TV/broadcasting licence or media fee that applies in your country"
+        },
+        {
+          "id": "gen-ci-t31",
+          "label": "Register with a local doctor/GP and dentist"
+        },
+        {
+          "id": "gen-ci-t32",
+          "label": "Update your nominated pharmacy with your new address for repeat prescription delivery"
+        },
+        {
+          "id": "gen-ci-t33",
+          "label": "Set up a standing order or recurring payment for rent"
+        }
+      ]
+    },
+    {
+      "id": "gen-ci-s4",
+      "title": "Within 1 month of moving in",
+      "tasks": [
+        {
+          "id": "gen-ci-t34",
+          "label": "Update all banks, building societies, mortgage lenders and credit cards with your new address"
+        },
+        {
+          "id": "gen-ci-t35",
+          "label": "Update savings, investment, exchange and brokerage accounts with your new address"
+        },
+        {
+          "id": "gen-ci-t36",
+          "label": "Update life insurance, critical illness and income protection with your new address"
+        },
+        {
+          "id": "gen-ci-t37",
+          "label": "Update solicitor, accountant and will/executor records with your new address"
+        },
+        {
+          "id": "gen-ci-t38",
+          "label": "Update your driving licence address with the relevant authority",
+          "dueText": "Some jurisdictions fine you for not updating it promptly"
+        },
+        {
+          "id": "gen-ci-t39",
+          "label": "Update your vehicle registration / log book with the relevant authority"
+        },
+        {
+          "id": "gen-ci-t40",
+          "label": "Update your vehicle insurance address",
+          "dueText": "Your premium may change"
+        },
+        {
+          "id": "gen-ci-t41",
+          "label": "Update any disability parking permit or badge with the relevant authority"
+        },
+        {
+          "id": "gen-ci-t42",
+          "label": "Update workplace and personal pension providers with your new address"
+        },
+        {
+          "id": "gen-ci-t43",
+          "label": "Notify your tax authority of your address change (income tax, social security/national insurance and any tax credits)"
+        },
+        {
+          "id": "gen-ci-t44",
+          "label": "Update any government benefits, pension, student finance or social security bodies you deal with"
+        },
+        {
+          "id": "gen-ci-t45",
+          "label": "Update your business/company registration address (registered office and director's service address) if you run a business"
+        },
+        {
+          "id": "gen-ci-t46",
+          "label": "Update your employer's records with your new address"
+        },
+        {
+          "id": "gen-ci-t47",
+          "label": "Update vet records and pet microchip database if you have pets"
+        },
+        {
+          "id": "gen-ci-t48",
+          "label": "Register on the electoral register, where applicable"
+        },
+        {
+          "id": "gen-ci-t49",
+          "label": "Update default shipping addresses with frequently used online retailers and payment services"
+        },
+        {
+          "id": "gen-ci-t50",
+          "label": "Update gym and other subscription services (e.g. mobile provider) with your new address"
+        }
+      ]
+    },
+    {
+      "id": "gen-ci-s5",
+      "title": "Deposit and tenancy compliance",
+      "tasks": [
+        {
+          "id": "gen-ci-t51",
+          "label": "Check your local deposit protection rules and any legal cap on the deposit amount, and confirm you were not charged any prohibited letting fees"
+        },
+        {
+          "id": "gen-ci-t52",
+          "label": "Confirm how your deposit is held/protected and obtain written confirmation and an inventory/condition report"
+        },
+        {
+          "id": "gen-ci-t53",
+          "label": "Obtain any legally required safety certificates and compliance documents for your jurisdiction (e.g. gas, electrical, energy efficiency) and confirm the landlord is licensed/registered if required locally"
+        }
+      ]
+    }
+  ]
+}
